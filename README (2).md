@@ -1,3 +1,7 @@
+**Assigned And Developed**
+Inayatullah Brohi Roll No TCS 27
+Ahsan Umrani Roll No TCS 10
+
 # 🏏 Cricket Scorer
 
 A lightweight, terminal-based cricket scoring application written in Python. Score live matches directly from your command line — no internet, no GUI, no dependencies.
